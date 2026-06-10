@@ -1,4 +1,4 @@
-🛒 Instacart Market Basket Analysis - SQL Project
+🛒 Instacart Consumer Behaviour Analysis - SQL Project
 
 An end-to-end SQL analytics project built on the Instacart Market Basket Analysis Kaggle dataset. The project covers database design, data loading and 15 analytical queries ranging from basic aggregations to advanced window functions.
 
